@@ -1,0 +1,661 @@
+body {
+  margin: 0;
+}
+.header {
+  width: 100%;
+  height: 65px;
+  background-color: #008ecc;
+  padding-top: 12px;
+   position:relative;
+}
+.f-icon {
+  width: 55px;
+  height: 42px;
+  background-color: #008ecc;
+  margin-left: 19px;
+  margin-bottom: 10px;
+  float: left;
+}
+.icon {
+  font-size: 51px;
+  color: white;
+}
+.logo {
+  width: 100px;
+  height: 38px;
+  background: #008ecc;
+  float: left;
+  margin-left: 39px;
+}
+.input-box {
+  width: 750px;
+  height: 53px;
+  float: left;
+  margin-left: 80px;
+  background-color: #008ecc;
+ 
+}
+.input{
+  
+  width: 710px;
+  height: 40px;
+  border-style: none;
+  border-radius: 5px;
+  
+  
+}
+.header-icon{
+position: absolute;
+left: 958px;
+top: 22px;
+font-size: 24px;
+
+}
+.user-logo{
+  font-size: 34px;
+  color: white;
+  margin-left: -18px;
+  margin-top: 10px;
+
+}
+.user{
+  color: white;
+  /* font-size: medium; */
+  margin-top: -26px
+  
+}
+#signin{
+  margin-left: 21px;
+  font-family: JioMedium;
+  font-size: 14px;
+  
+}
+.cart{
+  font-size: 34px;
+  color:white;
+  float: right;
+  margin-right:81px;
+  margin-top: -24px
+}
+.cart-name{
+color: white;
+font-family: JioMedium;
+  font-size: 14px;
+  float: right;
+  margin-top: -16px;
+   margin-right:81px;
+   margin-right: -58px;
+
+}
+.second-header{
+  width: 100%;
+  height: 39px;
+  background: #ececed;
+  
+  display: flex;
+}
+.location{
+  font-size:20px;
+  color: rgb(134, 130, 125);
+  margin-left: 29px;
+  margin-top: 8px;
+}
+.delivery{
+    width: 50px;
+     height: 34px;
+    font-size: 11px;
+    padding-top: -2px;
+    margin-top: -6px;
+}
+#num{
+  font-size:20px;
+  color: black;
+}
+ul{
+  list-style-type: none;
+}
+li.items{
+    float: left;
+    font-family: JioMedium;
+    font-size: 17px;
+    color: #000;
+    line-height: 20px;
+    letter-spacing: normal;
+}
+.p-fruits{
+  margin-left: 216px;
+}
+.dairy{
+   margin-left: 413px;
+}
+.staples{
+  margin-left: 616px;
+}
+.men{
+  margin-left: 738px;
+}
+.women{
+  margin-left:834px;
+}
+.boy{
+  margin-left:956px;
+}
+.girl{
+  margin-left:1057px;
+}
+.space{
+  width: 100%;
+  height:136px;
+  background-color:#fff;
+}
+.offer-img{
+  width: 100%;
+  height: 281px;
+  background-color: #008ecc;
+}
+.main-head{
+  width: 100%;
+  height:116px;
+  position: fixed;
+  background-color: aqua;
+}
+.del-img{
+  width: 100%;
+  height: 172px;
+  background-color: rgb(255, 255, 255);
+}
+.del-sub-img{
+  width: 1235px;
+  height: 157px;
+  margin-left:15px;
+  margin-top: 15px;
+}
+.main-sec{
+  width: 100%;
+  height:1018px;
+  background-color: rgb(250, 250, 250);
+}
+.offer-logo{
+  width: 1237px;
+  height: 110px;
+  margin-left: 14px;
+ 
+}
+.offer-img2{
+   width: 1237px;
+  height: 187px;
+  margin-top: -4px;
+  margin-left: 14px;
+}
+.banner{
+   width: 1237px;
+  height: 132px;
+  margin-top: -4px;
+  margin-left: 14px;
+}
+.second-main{
+  width: 100%;
+  height: 749px;
+  margin-top: -14px;
+  background-color: #ffffff;
+  
+}
+.shop-cat{
+  width: 491px;
+    height: 27px;
+    margin-left: 35px;
+    margin-top: 28px;
+  background-color: rgb(250, 250, 250);
+}
+h1{
+  font-size: 20px;
+  font-family: JioBold;
+}
+.boxes{
+  width: 100%;
+  height: 189px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+}
+.box-1{
+ width: 157px;
+    height: 158px;
+  margin-top: 22px;
+   margin-left: 69px;
+}
+.box-2{
+  width: 157px;
+  height: 158px;
+  margin-top: 22px;
+  margin-left: 20px;
+}
+.box-3{
+  width: 157px;
+  height: 158px;
+  margin-top: 22px;
+  margin-left: 20px;
+}
+.box-4{
+  width: 157px;
+  height: 158px;
+  margin-top: 22px;
+  margin-left: 55px;
+}
+.box-5{
+  width: 157px;
+  height: 158px;
+  margin-top: 22px;
+  margin-left: 55px;
+}
+.box-6{
+  width: 157px;
+  height: 158px;
+  margin-top: 22px;
+  margin-left: 55px;
+  cursor: pointer;
+}
+
+.shop-now{
+ width: 1220px;
+ height: 170px;
+ margin-left: 22px;
+}
+.s-boxes{
+  width: 100%;
+  height: 304px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+}
+.s-box1{
+ width: 162px;
+    height: 265px;
+    margin-left: 33px;
+    margin-top: 10px;
+    border-radius:9px;
+   border: 1px solid rgb(136, 134, 134);
+  background-color: #ffffff;
+}
+.s-box-1{
+  width: 74px;
+    height: 92px;
+    margin-top: 17px;
+    margin-left: 42px;
+}
+h3{
+ font-size: 14px;
+    font-family: JioBold;
+}
+.rupee{
+  margin-top: -11px;
+}
+.mrp{
+   margin-top: -13px;
+   color: #626262;
+}
+.save-price{
+   margin-top:5px;
+   color: #39d34d;
+}
+.add-to-cart{
+  width: 141px;
+    height: 25px;
+    color: #fff;
+    margin-left: 8px;
+    border-radius: 3px;
+  background-color: #008ecc;
+}
+.s-box2{
+  width: 162px;
+    height: 265px;
+    margin-left: 45px;
+    margin-top: 10px;
+    border-radius:9px;
+   border: 1px solid rgb(136, 134, 134);
+  background-color: #ffffff;
+
+}
+.s-box-2{
+  width: 74px;
+    height: 92px;
+    margin-top: 17px;
+    margin-left: 42px;
+}
+.plus{
+ margin-left: 114px;
+ margin-top: -15px;
+ padding-left: 5px;
+ padding-top: 3px;
+ color: white;
+ background-color: #3994df;
+  border-radius: 50px;
+}
+.s-box3{
+  width: 162px;
+    height: 265px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius:9px;
+   border: 1px solid rgb(136, 134, 134);
+  background-color: #ffffff;
+
+}
+.s-box-3{
+  width: 74px;
+    height: 92px;
+    margin-top: 17px;
+    margin-left: 42px;
+}
+.s-box4{
+  width: 162px;
+    height: 265px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius:9px;
+   border: 1px solid rgb(136, 134, 134);
+  background-color: #ffffff;
+
+}
+.s-box-4{
+  width: 74px;
+    height: 92px;
+    margin-top: 17px;
+    margin-left: 42px;
+}
+.s-box5{
+  width: 162px;
+    height: 265px;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-radius:9px;
+   border: 1px solid rgb(136, 134, 134);
+  background-color: #ffffff;
+
+}
+.s-box-5{
+  width: 74px;
+    height: 92px;
+    margin-top: 17px;
+    margin-left: 42px;
+}
+.s-box6{
+  width: 162px;
+    height: 265px;
+    margin-left: 79px;
+    margin-top: 10px;
+    border-radius:9px;
+   border: 1px solid rgb(136, 134, 134);
+  background-color: #ffffff;
+
+}
+.s-box-6{
+  width: 74px;
+    height: 92px;
+    margin-top: 17px;
+    margin-left: 42px;
+}
+.add{
+  color: white;
+}
+.third-main{
+  width: 100%;
+  height:800px;
+  padding-top: 10px;
+ background-color: #ffffff;
+}
+.add1{
+  width: 542px;
+    height: 221px;
+   margin-left: 80px;
+  float: left;
+  background-color: #ffffff;
+}
+.add-pic{
+ width: 542px;
+    height: 221px;
+ 
+}
+.add2{
+  width: 542px;
+    height: 221px;
+   margin-left: 20px;
+  float: left;
+  background-color: #ffffff;
+}
+.daily-essen{
+  width: 376px;
+    height: 49px;
+    margin-top: 236px;
+    margin-left: 37px;
+    background-color: #ffffff;
+}
+.special-offer{
+  width: 100%;
+  height: 227px;
+  padding-top: 21px;
+  display: flex;
+  background-color: #ffffff;
+}
+.offer-box1{
+    width: 229px;
+    height: 219px;
+    margin-left: 51px;
+    border-radius: 13px;
+    background-color: #efd6da;
+}
+.off{
+  margin-top: -30px;
+    margin-left: 51px;
+}
+.pulses{
+      width: 153px;
+    height: 138px;
+    margin-left: 38px;
+    margin-top: 20px;
+}
+.dal{
+ margin-top: -19px;
+    margin-left: 66px;
+     font-size: 11px;
+    font-family: JioBold;
+}
+.offer-box2{
+    width: 229px;
+    height: 219px;
+    margin-left: 51px;
+    border-radius: 13px;
+    background-color: #efd6da;
+}
+.suji{
+ margin-top: -18px;
+    margin-left: 48px;
+   font-size: 11px;
+    font-family: JioBold;
+}
+.offer-box3{
+    width: 229px;
+    height: 219px;
+    margin-left: 51px;
+    border-radius: 13px;
+    background-color: #efd6da;
+}
+.edible{
+ margin-top: -22px;
+    margin-left: 68px;
+    font-size: 11px;
+    font-family: JioBold;
+}
+.offer-box4{
+    width: 229px;
+    height: 219px;
+    margin-left: 51px;
+    border-radius: 13px;
+    background-color: #efd6da;
+}
+.salt{
+    margin-top: -22px;
+    margin-left: 41px;
+    font-size: 11px;
+    font-family: JioBold;
+}
+.link{
+   margin-top: 234px;
+   margin-left: -36px;
+   font-size: 12px;
+   color: #008ecc!important;
+   font-family: JioMedium;
+}
+.shop-by-catagory{
+  width: 367px;
+    height: 32px;
+    margin-top: 15px;
+    margin-left: 37px;
+    background-color: #ffffff;
+}
+.shop-by{
+  width: 100%;
+    height: 207px;
+    justify-content: space-around;
+    align-items: center;
+   display: flex;
+  background-color: #ffffff;
+}
+.shop-by>div{
+  background-color: #ffffff;
+  width: 158px;
+    height: 170px;
+    border-radius: 4px;
+    border: 1px solid rgb(136, 134, 134);
+}
+.personal{
+  width: 118px;
+    height: 123px;
+    padding-top: 10px;
+    padding-left: 17px;
+}
+.per-son{
+ margin-left: 26px;
+ font-size: 14px;
+  font-family: JioBold;
+  color: #000;
+  font-weight: bold;
+}
+.snack{
+  margin-left:3px;
+ font-size: 14px;
+  font-family: JioBold;
+  color: #000;
+  font-weight: bold;
+}
+.kurta{
+   width: 593px;
+    height: 313px;
+   border-radius: 24px;
+}
+
+.fashion{
+  width: 100%;
+  height: 326px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  padding-top: 10px;
+  justify-content: space-around;
+
+}
+.fashion>div{
+     width: 606px;
+    height: 262px;
+}
+.dresses{
+  width: 100%;
+  height: 248px;
+  background-color: #ffffff;
+  display: flex;
+  padding-top: 10px;
+  justify-content: space-around;
+}
+.dress-sub{
+  width: 187px;
+    height: 219px;
+    border-radius: 10px;
+}
+.ads-4{
+  width: 100%;
+  height: 300px;
+  display: flex;
+ justify-content: space-around;
+ 
+}
+.milk-fest{
+  width: 586px;
+  height: 253px;
+}
+.offerbox-2{
+  width: 100%;
+  height: 234px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 10px;
+  justify-content: space-around;
+  background-color: #ffffff;
+}
+.offerbox-2>div{
+    width: 229px;
+    height: 219px;
+    border-radius: 13px;
+    background-color: #c5f8c0;
+}
+.detergent{
+    margin-top: -14px;
+    margin-left: 41px;
+    font-size: 11px;
+    font-family: JioBold;
+
+}
+.footer{
+  width: 100%;
+  height: 500px;
+  margin-top: -22px;
+  background-color:#ededef;
+}
+.text{
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: space-around;
+}
+li{
+  color: rgb(51 51 51 / 75%);
+  line-height: 22px;
+  font-size: 14px;
+}
+.color{
+  color: #3994df;
+  font-weight: bold;
+}
+.s-color{
+  color: #96caf5;
+}
+.vertical-line{
+height: 348px;
+    border-right: 1px solid #494949;
+    position: absolute;
+    right: 33%;
+    margin-top: 36px;
+}
+.app{
+   float: left;
+    margin-left: 39px;
+    width: 86px;
+    height: 37px
+}
+.horizontal{
+  margin-top: 299px;
+    margin-left: 15px;
+}
+.sub-footer{
+ display: flex;
+ justify-content: space-around;
+}
+p{
+  font-size: 11px;
+}
